@@ -1,15 +1,16 @@
 _repo: The-Manufacture-of-Paper-With-Illustrations-and-a-Bibliography-of-Works-Relating-to-Cellulose__46449
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46449/46449-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46449-h/images/cover.jpg
 creator:
   author:
     agent_name: Sindall, Robert Walter
     gutenberg_agent_id: '43795'
     url: http://www.gutenberg.org/2009/agents/43795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46449#The-Manufacture-of-Paper-With-Illustrations-and-a-Bibliography-of-Works-Relating-to-Cellulose_
 gutenberg_issued: '2014-07-30'
 gutenberg_type: Text
 identifiers:
